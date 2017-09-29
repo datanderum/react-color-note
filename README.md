@@ -5,9 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Installation
 - From github repo
-    - Run the following commands in terminal (OSX/Linux)
-      - yarn install
-      - yarn start
+    - Run the following command(s) in terminal (OSX/Linux)
+      - yarn install | yarn start
 
 ## Table of Contents
 
