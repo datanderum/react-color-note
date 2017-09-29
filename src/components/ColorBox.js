@@ -5,7 +5,7 @@ import * as colorHelper from './../utils/ColorHelper.js';
 console.log(colorHelper.hexStringToRgbObj('FF0000'));
 
 var bgColors = {
-  "DarkRed": "#AE0000",
+  "DarkRed": ["#AE0000"],
   "Red": "#FF0000",
   "OrangeRed": "#FF6600",
   "Yellow": "#FFEF00",

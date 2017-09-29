@@ -12,10 +12,7 @@ class ColorList extends Component {
 
   renderColors() {
     return this.state.colors.map((name, index) => (
-      <ColorBox
-        index={index}
-        name={name}
-      />
+      <ColorBox index={index} name={name}/>
     ));
   }
 
