@@ -73,8 +73,8 @@ class ColorBox extends Component {
     return (
       <div className="ColorBox" style={{backgroundColor: bgColors[colorName]}}>
         <div>{this.props.name}</div>
-        <div>freq: {colorFreq}</div>
-        <div>key: {configs.keyMap[keyToWatch]}</div>
+        <div>f:{colorFreq}Hz</div>
+        <div>key:{configs.keyMap[keyToWatch]}</div>
       </div>
     );
   }
