@@ -1,0 +1,22 @@
+.ColorBox {
+  line-height:720px;
+  height:720px;
+  width: 6%;
+  margin: 2px 14px 2px 2px;
+  display:block;
+  float:left;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.ColorBox > div {
+  width:98%;
+  height:80px;
+  line-height:80px;
+  padding:1%;
+  display:black;
+  background-color: rgba(255,255,255,0.1);
+  border-bottom: 1px solid black;
+  overflow: hidden;
+}
