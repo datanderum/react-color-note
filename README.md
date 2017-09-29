@@ -5,8 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Install From Repo (OSX/Linux)
 - Run the following commands in terminal
--- yarn install
--- yarn start
+  - yarn install
+  - yarn start
 
 ## Table of Contents
 
